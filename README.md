@@ -1,8 +1,9 @@
-# Mercemur
- The Easiest way to create E-commerce website For Any Small Business or Creator
+# Flutter-Webview-Template
+ 
+I made this template for a E-commerce website maker.
 
 
-Flutter app which can be used to display an url inside an mobile app
+This Flutter app template can be used to display an url inside an mobile app
 
 
 Customly Made Flutter Webview Template By **- MrTheMech**
